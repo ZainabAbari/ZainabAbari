@@ -17,14 +17,8 @@ I solve business problems with data-driven insights and build scalable solutions
 
 ### Data & Visualization  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Let's Connect  
 - [LinkedIn](https://www.linkedin.com/in/zainab-abari)
 - [Email](abarizainabolaitan@gmail.com)
-
-
-##  Let's Connect
-- [LinkedIn](www.linkedin.com/in/zainab-abari) 
-
-
