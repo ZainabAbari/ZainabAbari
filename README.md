@@ -2,7 +2,6 @@
 Data Analyst | Data Scientist | AI/ML | Business Analyst
 
 I solve business problems with data-driven insights and build scalable solutions for real-world impact.
-
 ---
 
 ##  Tech Stack
@@ -24,7 +23,6 @@ I solve business problems with data-driven insights and build scalable solutions
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 ---
-
 ##  GitHub Stats
 ![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainabAbari&show_icons=true&theme=radical)
 
